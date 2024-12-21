@@ -35,19 +35,3 @@ CalendarSync is a centralized calendar application designed to help students man
 
 We value your feedback and contributions. If you have suggestions or find any bugs, please [open an issue](https://github.com/CS222-UIUC-FA23/group-project-team55/issues). 
 
-## Team Members
-### 1. Vashishth Goswami
-
-![Vashishth Goswami](https://github.com/vashishth8.png)
-
-### 2. Shrivatsa Shivaputra Patil
-
-![Shrivatsa Shivaputra Patil](https://github.com/fafu-10.png)
-
-### 3. Rohan Sreenivasan
-
-![Rohan Sreenivasan](https://github.com/rohanjs3.png)
-
-### 4. Safiya Bhanpuri
-
-![Safiya Bhanpuri](https://github.com/sbhanpuri.png)
